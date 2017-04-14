@@ -26,3 +26,6 @@ D:\Source\Repos\klepsydra\klepsydra\obj\Debug\MainWindow.baml
 D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.g.resources
 D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.Properties.Resources.resources
 D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.csproj.GenerateResource.Cache
+D:\-=GIT=-\klepsydra\bin\Debug\klepsydra.exe.config
+D:\-=GIT=-\klepsydra\obj\Debug\klepsydra.exe
+D:\-=GIT=-\klepsydra\obj\Debug\klepsydra.pdb
