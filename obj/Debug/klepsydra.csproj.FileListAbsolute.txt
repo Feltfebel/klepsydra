@@ -1,0 +1,28 @@
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\MainWindow.g.cs
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\App.g.cs
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra_MarkupCompile.cache
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra_MarkupCompile.lref
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\bin\Debug\klepsydra.exe.config
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\bin\Debug\klepsydra.exe
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\bin\Debug\klepsydra.pdb
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\MainWindow.baml
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra.g.resources
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra.Properties.Resources.resources
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra.csproj.GenerateResource.Cache
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra.exe
+d:\Multimedia\Dokumenty\Visual Studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra.pdb
+d:\multimedia\dokumenty\visual studio 2015\Projects\klepsydra\klepsydra\obj\Debug\klepsydra.csprojResolveAssemblyReference.cache
+D:\Source\Repos\klepsydra\klepsydra\bin\Debug\klepsydra.exe.config
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.exe
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.pdb
+D:\Source\Repos\klepsydra\klepsydra\bin\Debug\klepsydra.exe
+D:\Source\Repos\klepsydra\klepsydra\bin\Debug\klepsydra.pdb
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.csprojResolveAssemblyReference.cache
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\MainWindow.g.cs
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\App.g.cs
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra_MarkupCompile.cache
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra_MarkupCompile.lref
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\MainWindow.baml
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.g.resources
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.Properties.Resources.resources
+D:\Source\Repos\klepsydra\klepsydra\obj\Debug\klepsydra.csproj.GenerateResource.Cache
